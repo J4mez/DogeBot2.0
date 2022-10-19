@@ -1,0 +1,32 @@
+{
+  "name": "dogebot2.0",
+  "version": "1.0.0",
+  "description": "This is the new DogeBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J4mez/DogeBot2.0.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot"
+  ],
+  "author": "J4mez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J4mez/DogeBot2.0/issues"
+  },
+  "homepage": "https://github.com/J4mez/DogeBot2.0#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
