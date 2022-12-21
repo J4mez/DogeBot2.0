@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/J4mez/DogeBot2.0#readme",
   "dependencies": {
-    "discord.js": "^14.6.0",
+    "discord.js": "^14.7.0",
     "dotenv": "^16.0.3",
     "nodemon": "^2.0.20",
     "ts-node": "^10.9.1"
